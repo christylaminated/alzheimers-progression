@@ -1,0 +1,6 @@
+/home/kinglab/FastSurfer/run_fastsurfer.sh --t1 mprage.nii --sd /media/kinglab/SeagateExpansionDrive/JCalz/FastSurfer_output --sid I13722 --seg_only
+Thu, 27 Mar 2025 12:34:17 -0400
+2.2.0+a000faa
+/home/kinglab/FastSurfer/run_fastsurfer.sh --t1 /media/kinglab/SeagateExpansionDrive/JCalz/ADNI/002_S_0295/MP-RAGE/2006-04-18_08_20_30.0/I13722/mprage.nii --sd /media/kinglab/SeagateExpansionDrive/JCalz/FastSurfer_output --sid I13722 --seg_only
+Thu, 27 Mar 2025 12:36:44 -0400
+2.2.0+a000faa
