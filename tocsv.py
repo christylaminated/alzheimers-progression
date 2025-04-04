@@ -16,6 +16,8 @@ master_csv_path = 'test.csv'
 output_file = "merged_JCalz.csv"
 df_master = pd.read_csv(master_csv_path)
 
+
+
 #extract cerebellar structures from cerebellum.CerebNet.stats
 def extract_cerebellar_structure(stats_path):
     if not os.path.isfile(stats_path):
