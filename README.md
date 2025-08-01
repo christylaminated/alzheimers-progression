@@ -64,5 +64,16 @@ cd alzheimers-stage-classifier
 pip install -r requirements.txt
 jupyter notebook model.ipynb
 
+## 📒 Notebook
+
+All analysis, modeling, and evaluation steps are documented in `model.ipynb`.
+
+## 🧪 Sample Data
+
+A subset of anonymized ADNI-like data is provided in `data/sample_adni_subset.csv` for testing and reproducibility.
+
+## 👤 Contributions
+
+This project was completed individually as part of my exploration into AI for neuroscience and healthcare.
 
 
